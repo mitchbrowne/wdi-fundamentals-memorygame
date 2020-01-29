@@ -95,6 +95,38 @@ img {
 }
 
 /* =============================
+RESET BUTTON
+================================ */
+#game-reset {
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-size: 16px;
+  text-decoration: none;
+  font-weight: 600;
+  letter-spacing: .06em;
+  color: #FFFFFF;
+  background-color: #00A6B3;
+  padding: 10px 20px;
+  margin: 20px 0 0 0;
+}
+
+/* =============================
+TABLE
+================================ */
+#stats {
+  text-align: right;
+  width: 70%;
+  margin-left: 71%;
+}
+
+.stat {
+  font-weight: 600;
+  width: 50px;
+}
+
+
+
+/* =============================
 FOOTER
 ================================ */
 footer {
@@ -105,7 +137,6 @@ footer {
   font-size: 14px;
   letter-spacing: .08em;
   font-weight: 500;
-
 }
 
 .copyright {
